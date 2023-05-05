@@ -1,0 +1,18 @@
+#git basic commands 
+ls : list the contents of the directory
+cd : change the current working directory
+mkdir <dir_name> : make any new directory
+cd <dir_name>: move to working directory
+touch <file_name> : create new file 
+code . : open the file in vsc
+pwd : present working directory
+rmdir : remove the directory
+rm <file_name> : delete the file
+clear : clear ups the command line
+git init : initailize the directory
+git status : check the status of the branch
+git add file <fiel_name> : add the file to branch 
+git commit -m "message" : commit the file
+git remote add origin "path" : fetch and push the file
+git remote -v : file ready to push
+git push -u origin master : push the file to github
