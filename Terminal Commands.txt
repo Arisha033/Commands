@@ -1,18 +1,57 @@
-#git basic commands 
+#git basic commands
+ 
+ctrl + A : move to start of the command
+
+ctrl + E : move to end of the command
+
+ctrl + U : clear the command
+
+alt hold : edit the command
+
 ls : list the contents of the directory
+
 cd : change the current working directory
+
+cd.. : one directory back
+
 mkdir <dir_name> : make any new directory
+
 cd <dir_name>: move to working directory
+
 touch <file_name> : create new file 
+
+start <file_name> : open the file
+
 code . : open the file in vsc
+
 pwd : present working directory
+
 rmdir : remove the directory
+
 rm <file_name> : delete the file
+
+rm * : delete all the files in the current dir
+
 clear : clear ups the command line
+
+exit : exit the terminal
+
 git init : initailize the directory
+
 git status : check the status of the branch
-git add file <fiel_name> : add the file to branch 
+
+git add file <file_name> : add the file to branch 
+
 git commit -m "message" : commit the file
+
 git remote add origin "path" : fetch and push the file
+
 git remote -v : file ready to push
+
 git push -u origin master : push the file to github
+
+driverquery : show list of drivers that you can't even find on device manager
+
+systeminfo : show Pc details
+
+ipconfig : show Pc IP address and Connections
